@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Module 2 Assignment [here] (https://github.com/yerlikovboy/coursera-web-dev/module2-solution/)
+Module 2 Assignment [here](https://github.com/yerlikovboy/coursera-web-dev/tree/master/module2-solution/)
 
 You can use the [editor on GitHub](https://github.com/yerlikovboy/coursera-web-dev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
